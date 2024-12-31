@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1062606394855",
+    "firebase_url": "https://ibit-2420b-default-rtdb.firebaseio.com",
+    "project_id": "ibit-2420b",
+    "storage_bucket": "ibit-2420b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062606394855:android:d1638bd8961f23c9a99942",
+        "android_client_info": {
+          "package_name": "com.example.sediment_features"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_OzNNclqlanE3eyoYaH3x04-N-huDQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
